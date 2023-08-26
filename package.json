@@ -1,0 +1,25 @@
+{
+  "name": "noob-meet",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^8.10.1",
+    "ngrok": "^4.0.1",
+    "socket.io": "^4.1.2"
+  },
+  "engines": {
+    "node": "16.15.x"
+  },
+  "description": "<h3> Intro </h3>  This is a webRTC based video chatting web application. The users can register and get logged in to their user page. They can either create a new room or use their previous rooms to join a call and chat. This implementation also consists of a real time chat and file share functionality.",
+  "author": "lokesh",
+  "license": "ISC"
+}
