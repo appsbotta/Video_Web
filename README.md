@@ -1,4 +1,4 @@
-# NoobMeet - A Video chat web application
+# LuffyMeet - A Video chat web application
 <h3> Intro </h3> 
 This is a webRTC based video chatting web application. The users can register and get logged in to their user page. They can either create a new room or use their previous rooms to join a call and chat. This implementation also consists of a real time chat and file share functionality.
 
